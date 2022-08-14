@@ -1,2 +1,2 @@
 FROM java:8
-FROM bitnami/redis:6.2
+FROM bitnami/redis:7.0
